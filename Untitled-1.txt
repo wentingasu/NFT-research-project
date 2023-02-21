@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Scarcity and Trading Value Performance of NFTs</title>
+  </head>
+  <body>
+    <h1>Welcome to My GitHub Page</h1>
+    <p>NFTs Header Image
+
+      Introduction
+      In recent years, non-fungible tokens (NFTs) have gained significant attention as a new way to represent digital ownership of unique items such as artwork, collectibles, and virtual real estate. One of the key factors that determine the value of an NFT is its scarcity, as scarcity implies rarity and exclusivity.
+      
+      In this project, we aim to investigate the relationship between scarcity and trading value performance of NFTs. We will collect and analyze data from various NFT marketplaces, including OpenSea and Nifty Gateway, to determine if scarcity is a significant predictor of NFT trading value.
+      
+      Methodology
+      We will use Python and its data science libraries, including Pandas, Matplotlib, and Seaborn, to collect and analyze data from NFT marketplaces. Specifically, we will collect data on the following variables:
+      
+      Rarity score: A measure of the rarity of an NFT, based on factors such as the number of editions, number of copies, and traits.
+      Trading volume: The number of NFTs sold over a period of time.
+      Trading value: The total value of NFTs sold over a period of time.
+      We will then use regression analysis to determine the relationship between rarity score and trading value, controlling for other factors such as trading volume and time.
+      
+      Data Visualization
+      We will use data visualization techniques to communicate our findings. Here's a preview of some of the visualizations we plan to create:
+      
+      Scatter Plot of Rarity Score and Trading Value
+      Scatter Plot
+      
+      This scatter plot shows the relationship between rarity score and trading value. The size of the dots represents trading volume.
+      
+      Regression Analysis Results
+      Regression Results
+      
+      This visualization shows the results of our regression analysis, including the coefficients and p-values for each variable.
+      
+      Conclusion
+      Our project aims to provide insights into the relationship between scarcity and trading value performance of NFTs. By collecting and analyzing data from various NFT marketplaces, we hope to determine if rarity score is a significant predictor of NFT trading value.
+      
+      Stay tuned for updates on our findings and data visualizations!</p>
+    <ul>
+      <li><a href="#">About</a></li>
+      <li><a href="#">Projects</a></li>
+      <li><a href="#">Contact</a></li>
+    </ul>
+  </body>
+</html>
